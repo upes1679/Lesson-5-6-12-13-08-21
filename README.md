@@ -10,6 +10,5 @@ So what we have we learned in both lesson?
 - break and continue
 - Enums
 - Switch
-- Startements
-- Precedence
+- Statements
 - Read user input
