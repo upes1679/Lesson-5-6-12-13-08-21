@@ -12,3 +12,4 @@ So what we have we learned in both lesson?
 - Switch
 - Statements
 - Read user input
+- Parse string to int
